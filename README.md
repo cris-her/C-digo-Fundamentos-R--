@@ -1,6 +1,8 @@
 # Fundamentos-R-PLATZI
 Analizando datos de economía naranja con R. Jugando con mtcars antes de procesar orange economy.
 
+?mtcars
+
 #EDA Scatter plot mtcars
 plot(mtcars$mpg ~ mtcars$cyl,
      xlab="cilindros", ylab = "millas por galón",
